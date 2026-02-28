@@ -1,19 +1,17 @@
 ### Welcome
 
-
-![Visitors](https://www.tyrell.dev/api/hits/deployHuman)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/deployHuman)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-trosell)
 
-- 🔭 I’m currently trying to Bootstrap my own SaaS web project.
-- 💼 My Fulltime work is working with data around electricity meter values.
-- 🌱 One of the few who Loves PHP
-- ⚛️ Have some Public Repos that i maintain as part of my own projects.
-- 📫 best way to contact me is just to tweet at me.
+- 🎉 **achieved:** Successfully built and sold my own SaaS project, no money gained tho.
+- 🔭 **I’m currently:** Managing a portfolio of 4-5 different web pages, mostly for the fun of it and the bragging rights.
+- 💼 **Full-time:** Working with data around electricity meter values.
+- 🌱 **Fun fact:** I am one of the few who genuinely loves PHP.
+- ⚛️ **Open Source:** Maintaining several public repos as part of my ongoing projects.
+- 📫 **Contact:** The best way to reach me is just to tweet at me.
 
-My first 6 years of work i did as an electrician and then 6 years of electrical engineering where i just drew a lot of scematics.
-And all along the way i have been programming on some kind of sideproject, but now in later years it has gotten more focus on the programming part.
-Which i love, never stop learning! 
+My first 6 years of work were as an electrician, followed by 6 years in electrical engineering where I drew a lot of schematics. All along the way, I have been programming on various side projects, but in recent years, my focus has shifted heavily toward the programming side. 
+I absolutely love it—never stop learning! 
 
 ## Some of My Coding Knowledge
 
